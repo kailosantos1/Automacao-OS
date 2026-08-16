@@ -1,0 +1,14 @@
+# Pastas temporárias e de ambiente
+__pycache__/
+.venv/
+dist/
+build/
+*.spec
+
+# Arquivos de credenciais e chaves (MUITO IMPORTANTE)
+.env
+credentials.json
+token.json
+
+# Caso queira ignorar o banco/JSON de clientes real
+Clientes/clientes_os.json
