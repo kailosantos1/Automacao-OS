@@ -50,7 +50,7 @@ GEMINI\_API\_KEY=sua\_chave\_gemini\_aqui
 
 EVOLUTION\_URL=http://localhost:8080
 
-EVOLUTION\_INSTANCE=SuaInstancia
+EVOLUTION\_INSTANCE=sua\_instancia
 
 EVOLUTION\_API\_KEY=sua\_chave\_evolution
 
@@ -59,7 +59,7 @@ JID\_WHATSAPP=seu\_id\_whatsapp
 CAMINHO\_JSON=clientes\_os.json
 
 
-4. Estrutura do JSON de ClientesCrie o arquivo clientes\_os.json (ou no caminho configurado no .env):JSON{
+4. Estrutura do JSON de Clientes crie o arquivo clientes\_os.json (ou no caminho configurado no .env):JSON{
 
 &#x20;   "CLIENTES\_CONTRATO": {
 
