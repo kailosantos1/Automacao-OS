@@ -54,7 +54,7 @@ EVOLUTION\_INSTANCE=SuaInstancia
 
 EVOLUTION\_API\_KEY=sua\_chave\_evolution
 
-JID\_WHATSAPP=5549999999999@s.whatsapp.net
+JID\_WHATSAPP=seu\_id\_whatsapp
 
 CAMINHO\_JSON=clientes\_os.json
 
